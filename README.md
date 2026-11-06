@@ -3,7 +3,7 @@
 This repository contains the code to reproduce the Fourier analysis and the reconstruction
 algorithms presented in the paper:
 
-<a href="https://hal.science/hal-04969247" target="_blank">Fourier Analysis of Interference Scanning Optical Probe Microscopy..</a>,  <br />
+<a href="https://hal.science/hal-04969247" target="_blank">Fourier Analysis of Interference Scanning Optical Probe Microscopy</a>,  <br />
 IEEE Transactions on Computational Imaging, vol. 11, pp. 1206-1216, 2025. <br />
 E. Soubies and W. Bacsa.
 
